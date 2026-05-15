@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       WC Buy Now Button
- * Plugin URI:        https://github.com/yourname/wc-buy-now-button
+ * Plugin URI:        https://github.com/niloydebb/WC-Buy-Now-Button/
  * Description:       Adds a customizable "Buy Now" button to WooCommerce products that adds to cart and redirects to checkout instantly. Supports shortcodes and Elementor widget.
  * Version:           1.0.1
  * Requires at least: 5.0
