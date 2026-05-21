@@ -1,6 +1,6 @@
 # WC Buy Now Button
 
-**Version:** 1.0.0  
+**Version:** 1.0.1  
 **Requires WordPress:** 5.0+  
 **Requires WooCommerce:** 4.0+  
 **Requires PHP:** 5.6+  
